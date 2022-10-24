@@ -1,0 +1,15 @@
+/Users/Angelica/Documents/Night Class Lectures/Assignments/AskingQuestions/AskingQuestions/bin/Debug/net6.0/AskingQuestions
+/Users/Angelica/Documents/Night Class Lectures/Assignments/AskingQuestions/AskingQuestions/bin/Debug/net6.0/AskingQuestions.deps.json
+/Users/Angelica/Documents/Night Class Lectures/Assignments/AskingQuestions/AskingQuestions/bin/Debug/net6.0/AskingQuestions.runtimeconfig.json
+/Users/Angelica/Documents/Night Class Lectures/Assignments/AskingQuestions/AskingQuestions/bin/Debug/net6.0/AskingQuestions.dll
+/Users/Angelica/Documents/Night Class Lectures/Assignments/AskingQuestions/AskingQuestions/bin/Debug/net6.0/AskingQuestions.pdb
+/Users/Angelica/Documents/Night Class Lectures/Assignments/AskingQuestions/AskingQuestions/obj/Debug/net6.0/AskingQuestions.csproj.AssemblyReference.cache
+/Users/Angelica/Documents/Night Class Lectures/Assignments/AskingQuestions/AskingQuestions/obj/Debug/net6.0/AskingQuestions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Angelica/Documents/Night Class Lectures/Assignments/AskingQuestions/AskingQuestions/obj/Debug/net6.0/AskingQuestions.AssemblyInfoInputs.cache
+/Users/Angelica/Documents/Night Class Lectures/Assignments/AskingQuestions/AskingQuestions/obj/Debug/net6.0/AskingQuestions.AssemblyInfo.cs
+/Users/Angelica/Documents/Night Class Lectures/Assignments/AskingQuestions/AskingQuestions/obj/Debug/net6.0/AskingQuestions.csproj.CoreCompileInputs.cache
+/Users/Angelica/Documents/Night Class Lectures/Assignments/AskingQuestions/AskingQuestions/obj/Debug/net6.0/AskingQuestions.dll
+/Users/Angelica/Documents/Night Class Lectures/Assignments/AskingQuestions/AskingQuestions/obj/Debug/net6.0/refint/AskingQuestions.dll
+/Users/Angelica/Documents/Night Class Lectures/Assignments/AskingQuestions/AskingQuestions/obj/Debug/net6.0/AskingQuestions.pdb
+/Users/Angelica/Documents/Night Class Lectures/Assignments/AskingQuestions/AskingQuestions/obj/Debug/net6.0/AskingQuestions.genruntimeconfig.cache
+/Users/Angelica/Documents/Night Class Lectures/Assignments/AskingQuestions/AskingQuestions/obj/Debug/net6.0/ref/AskingQuestions.dll
