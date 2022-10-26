@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Angelica/Documents/Night Class Lectures/Assignments/AskingQuestions/AskingQuestions/AskingQuestions.csproj": {}
+    "C:\\Users\\lizg1\\AngelaRepo\\AskingQuestions\\AskingQuestions.csproj": {}
   },
   "projects": {
-    "/Users/Angelica/Documents/Night Class Lectures/Assignments/AskingQuestions/AskingQuestions/AskingQuestions.csproj": {
+    "C:\\Users\\lizg1\\AngelaRepo\\AskingQuestions\\AskingQuestions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Angelica/Documents/Night Class Lectures/Assignments/AskingQuestions/AskingQuestions/AskingQuestions.csproj",
+        "projectUniqueName": "C:\\Users\\lizg1\\AngelaRepo\\AskingQuestions\\AskingQuestions.csproj",
         "projectName": "AskingQuestions",
-        "projectPath": "/Users/Angelica/Documents/Night Class Lectures/Assignments/AskingQuestions/AskingQuestions/AskingQuestions.csproj",
-        "packagesPath": "/Users/Angelica/.nuget/packages/",
-        "outputPath": "/Users/Angelica/Documents/Night Class Lectures/Assignments/AskingQuestions/AskingQuestions/obj/",
+        "projectPath": "C:\\Users\\lizg1\\AngelaRepo\\AskingQuestions\\AskingQuestions.csproj",
+        "packagesPath": "C:\\Users\\lizg1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lizg1\\AngelaRepo\\AskingQuestions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/Angelica/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\lizg1\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

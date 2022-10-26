@@ -9,9 +9,9 @@
 //created another input that turse user input (string) into an interger
 //Result: What is your name and what time did you wake up?
 
-//Peer Reviewed by: 
+//Peer Reviewed by: Liz
 //Date:
-//Review:
+//Review: code works, it's good! 
 
 string Name;
 string wakeTim;
