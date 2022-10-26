@@ -16,6 +16,7 @@
 string Name;
 string wakeTim;
 
+
 Console.WriteLine("What is your name?");
 
 Name = Console.ReadLine();
@@ -25,3 +26,10 @@ Console.WriteLine("What time did you wake up?");
 wakeTim = Console.ReadLine();
 
 Console.WriteLine($"My name is {Name} and I woke up at {wakeTim}.");
+
+
+
+
+
+
+
